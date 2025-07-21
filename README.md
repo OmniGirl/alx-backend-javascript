@@ -20,7 +20,7 @@ This repository contains backend-focused JavaScript projects completed as part o
 
 ## Project Structure
 
-
+```
 0x00-ES6_basic/
 0x01-ES6_promise/
 0x02-ES6_classes/
@@ -28,7 +28,7 @@ This repository contains backend-focused JavaScript projects completed as part o
 0x04-TypeScript/
 0x05-Node_JS_basic/
 0x06-unittests_in_js/
-
+```
 
 Each folder contains individual project tasks, scripts, and sub-README files.
 
