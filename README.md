@@ -39,16 +39,17 @@ Each folder contains individual project tasks, scripts, and sub-README files.
 1. Clone this repo and install dependencies:
 
 
+```bash
 git clone https://github.com/OmniGirl/alx-backend-javascript.git
 cd alx-backend-javascript
 npm install
-
+```
 
 2. To run a simple Express.js server example::
 
-
+```bash
 node ./0x05-Node_JS_basic/6-http_express.js
-
+```
 
 ---
 
